@@ -1,0 +1,8 @@
+version: 1.0.8
+files:
+  - url: https://github.com/Kvngslump/slump-sports/releases/download/desktop-v1.0.8/SlumpSports-Setup-1.0.8.exe
+    sha512: Q8iyn0nqHbDRUJoGKBb9rVfnw14Gm4VWcOV3pwmaL12B+FjTiF5/EVyZxrDHiUmLCe6Ufshhk3eCjO9carWlZA==
+    size: 121787168
+path: https://github.com/Kvngslump/slump-sports/releases/download/desktop-v1.0.8/SlumpSports-Setup-1.0.8.exe
+sha512: Q8iyn0nqHbDRUJoGKBb9rVfnw14Gm4VWcOV3pwmaL12B+FjTiF5/EVyZxrDHiUmLCe6Ufshhk3eCjO9carWlZA==
+releaseDate: '2026-11-26T02:38:38.130Z'
