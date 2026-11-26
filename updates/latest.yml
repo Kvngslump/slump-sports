@@ -1,8 +1,8 @@
-version: 1.1.3
+version: 1.1.4
 files:
-  - url: https://github.com/Kvngslump/slump-sports/releases/download/desktop-v1.1.3/SlumpSports-Setup-1.1.3.exe
-    sha512: H2gzaYSb3dqS3GQgsXQW7vLPSI19Or/w/ar1gfCev6+mDgJd+ggCbkY56I4775en/Xi+nrKk8h0cW3ne/hXsAQ==
-    size: 121847740
-path: https://github.com/Kvngslump/slump-sports/releases/download/desktop-v1.1.3/SlumpSports-Setup-1.1.3.exe
-sha512: H2gzaYSb3dqS3GQgsXQW7vLPSI19Or/w/ar1gfCev6+mDgJd+ggCbkY56I4775en/Xi+nrKk8h0cW3ne/hXsAQ==
-releaseDate: '2026-11-26T04:40:21.152Z'
+  - url: https://github.com/Kvngslump/slump-sports/releases/download/desktop-v1.1.4/SlumpSports-Setup-1.1.4.exe
+    sha512: VOxrqJLcmZYnK+9Ewptf4XuEa+zhEblwqg5vdYHFFBxI6TlyyM0tBWeCsvgNtnuQDtcjNE5H3SYmCpFhFy+nOA==
+    size: 121850250
+path: https://github.com/Kvngslump/slump-sports/releases/download/desktop-v1.1.4/SlumpSports-Setup-1.1.4.exe
+sha512: VOxrqJLcmZYnK+9Ewptf4XuEa+zhEblwqg5vdYHFFBxI6TlyyM0tBWeCsvgNtnuQDtcjNE5H3SYmCpFhFy+nOA==
+releaseDate: '2026-11-26T06:10:38.636Z'
